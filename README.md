@@ -10,3 +10,5 @@ In the dataset provided, each row represents a resume. The 'race' column has two
 Note that the 'b' and 'w' values in race are assigned randomly to the resumes when presented to the employer.
 
 ## Conclusion
+
+We have concluded that the rate of callbacks per resume depends on race. This was checked via frequentist statistical approaches and bootstrap approach. Both methods gave a value of low p (almost zero) with 95% confidence interval between .01642 and .04722 (rate) that w-sounding name will get called back more than b-sounding name.
